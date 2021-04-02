@@ -1,2 +1,20 @@
 hello my name is antony
-new i guess
+new i guess/data/raw_data
+GETTING FILES 
+
+NAME: filtered_adni_5.zip	 ID: 1-Qq7eCMQ9EzNcvnlK0p8x2tG5I4aGSSy
+NAME: filtered_adni_4.zip	 ID: 1-PR2B0EZgdV6BqF9E9boMuVsd8bJ5Vmi
+NAME: filtered_adni_3.zip	 ID: 1-OhFM8rorNnFUnQ8A8Xyr4qt16_r65c5
+NAME: filtered_adni_2.zip	 ID: 1-LgI7zBqUPNyCbIaTsopHNpzo-qMbmuQ
+NAME: filtered_adni_1.zip	 ID: 1-KnZB1-fr9GXjUo5effLr-o2TFKM3ILD
+NAME: filtered_adni_11.zip	 ID: 13dfFJbJ0HXdJ3O2xFJs-4LUNFHHdRQVb
+NAME: filtered_adni_10.zip	 ID: 11y0Ikagf-UtTFbnOube0k8AaYDyo3OC4
+NAME: filtered_adni_9.zip	 ID: 1u4bUTKU7u_Jtm9xYkrkJ1jzZoGbg9XX5
+NAME: filtered_adni_8.zip	 ID: 1djTKFoRHCB3UVVYXOu7YlJtvuZsK8bcv
+NAME: filtered_adni_7.zip	 ID: 1uM7HP2viKyXYFotihIv8EfxGUZ3fUO68
+NAME: filtered_adni_6.zip	 ID: 1YuDupH7zRk9o1LrTD72OIzqSx7ZIgY6h
+-
+DOWNLOADING FILE
+
+Name:filtered_adni_5.zip
+Path: /data/raw_data/downloads/filtered_adni_5.zip
